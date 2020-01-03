@@ -8,7 +8,7 @@ require (
 	github.com/docker/go-units v0.4.0
 	github.com/godbus/dbus v0.0.0-20190422162347-ade71ed3457e
 	github.com/gogo/protobuf v1.2.1
-	github.com/opencontainers/runtime-spec v0.1.2-0.20190507144316-5b71a03e2700
+	github.com/opencontainers/runtime-spec v1.0.1
 	github.com/pkg/errors v0.8.1
 	github.com/sirupsen/logrus v1.4.2
 	github.com/urfave/cli v1.22.1
